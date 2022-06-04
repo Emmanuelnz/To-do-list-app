@@ -31,4 +31,4 @@ function newItem() {
       }
 }
 // Reordering items
-  $('list').sortable();
+  $('#list').sortable();
